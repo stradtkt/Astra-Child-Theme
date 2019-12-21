@@ -20,6 +20,8 @@ Tags: custom-menu, custom-logo, entertainment, featured-images, full-width-templ
     position: relative;
     right: 7%;
 }
+
+/**SEARCH*/
 .search-trigger {
     color: #222;
     position: relative;
@@ -207,6 +209,11 @@ Tags: custom-menu, custom-logo, entertainment, featured-images, full-width-templ
       font-size: 1rem !important;  
     }
   }
+  .body-no-scroll {
+    overflow: hidden;
+  }
+
+  /** END SEARCH*/
   
 /*Bootstrap Specific Styles*/
 
